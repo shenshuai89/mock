@@ -18,4 +18,18 @@ npm run build
 npm run build --report
 ```
 
+## display show:
+新闻展示
+![](https://github.com/shenshuai89/mock/blob/master/src/assets/news.png)
+评论展示
+![](https://github.com/shenshuai89/mock/blob/master/src/assets/comments.png)
+## Scripts included:
+* Bootstrap-vue
+* vue
+* vuex
+* vue-router
+* mock
+
+
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
