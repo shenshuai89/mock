@@ -18,6 +18,9 @@ npm run build
 npm run build --report
 ```
 
+http://my-json-server.typicode.com/shenshuai89/mock/list
+可以读取到db.json中的数据
+ 
 ## display show:
 新闻展示
 ![](https://github.com/shenshuai89/mock/blob/master/src/assets/news.png)
